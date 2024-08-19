@@ -3,8 +3,6 @@
 Hi, i'd like to ensure you're having a great time, so here's a piece of my grattitude ☕!
 
 I discovered myself through coding in 2018, and since then i'm working on getting better everyday, feel free to look at my public repositories and let me know if there's anything i can improve.
-
-Obs: Most of my code activity over the time i've been working is displayed on my GitLab Overview Page, so make sure to check it out!
   
   <h2>Main technologies</h2>
   
@@ -14,7 +12,7 @@ Obs: Most of my code activity over the time i've been working is displayed on my
   <img align="center" alt="caio-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="caio-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="caio-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="caio-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+  <img align="center" alt="caio-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
   <img align="center" alt="caio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img align="center" alt="caio-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <br /><br />
