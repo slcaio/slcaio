@@ -1,6 +1,6 @@
 # Who is <a href="https://slcaio.com" aria-label="Caio Lima">Caio</a>?
 
-## Senior Software Engineer | AI & Automation Specialist
+## Fullstack Software Engineer | AI & Automation Specialist
 
 Brumado, BA, Brazil |
 +55 41 992135932 |
