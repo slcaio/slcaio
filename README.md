@@ -14,7 +14,7 @@ Full stack software engineer with over 4 years of experience, working on the dev
 
 ## Know more about me 🌐
 
-   <a href="https://www.linkedin.com/in/slcaio/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30px"></img></a>
+   <a href="https://www.linkedin.com/in/slcaio/"><img src="https://skillicons.dev/icons?i=linkedin" width="30px"></img></a>
    <a href="https://slcaio.com/en/"><img src="/assets/favicon.svg" width="33px"></img></a>
 
 [ Meet Innovarts ](https://innovarts.co)
