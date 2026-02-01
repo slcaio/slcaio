@@ -1,31 +1,23 @@
-### Who is Caio?
+# Who is <a href="https://slcaio.com" aria-label="Caio Lima">Caio</a>?
 
-Hi, i'd like to ensure you're having a great time, so here's a piece of my grattitude ☕!
+## Senior Software Engineer | AI & Automation Specialist
 
-I discovered myself through coding in 2018, and since then i'm working on getting better everyday, feel free to look at my public repositories and let me know if there's anything i can improve.
-  
-  <h2>Main technologies</h2>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="caio-ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
-  <img align="center" alt="caio-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="caio-next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="caio-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="caio-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img align="center" alt="caio-nestjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
-  <img align="center" alt="caio-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img align="center" alt="caio-spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <br /><br />
-  <img align="center" alt="caio-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" alt="caio-postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="caio-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img align="right" alt="programmer-gif" height="180" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" />
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.linkedin.com/in/lima-caio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:whoiscaio@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/></a>
-  <a href="https://gitlab.com/whoiscaio" target="_blank"><img src="https://img.shields.io/badge/Gitlab-2F2A6B?style=for-the-badge&logo=gitlab&logoColor=white" alt="ProtonMail Badge"/></a>
-</div>
+Brumado, BA, Brazil |
++55 41 992135932 |
+me@slcaio.com |
+https://linkedin.com/in/slcaio |
+https://slcaio.com/en
+
+## About Me 🧑‍💻
+
+Full stack software engineer with over 4 years of experience, working on the development of scalable, well-structured, and results-oriented solutions. I work end-to-end in the development cycle, from understanding business needs to delivering and evolving systems used in real environments.
+
+## Know more about me 🌐
+
+   <a href="https://www.linkedin.com/in/slcaio/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30px"></img></a>
+   <a href="https://slcaio.com/en/"><img src="/assets/slcaio.png"></img></a>
+
+[ Meet Innovarts ](https://innovarts.co)
+
+
+Feel free to check my repositories and contribute!
